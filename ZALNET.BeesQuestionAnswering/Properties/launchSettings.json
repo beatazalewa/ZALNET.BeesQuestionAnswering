@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZALNET.BeesQuestionAnswering": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error"
+    }
+  }
+}
